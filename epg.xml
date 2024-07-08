@@ -112,7 +112,7 @@
         <display-name>Kool 101</display-name>
         <icon src="https://assets-mpa.kool101.audio/media/Logo/profile_photo_1000x1000-03.jpg"/>
     </channel>
-    <channel id="724">
+    <channel id="723">
         <display-name>Fly FM</display-name>
         <icon src="https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg"/>
     </channel>
@@ -240,7 +240,7 @@
         <title>Dummy Program</title>
         <desc>This is a dummy program description.</desc>
     </programme>
-    <programme start="20240101000000 +0000" stop="20240101010000 +0000" channel="724">
+    <programme start="20240101000000 +0000" stop="20240101010000 +0000" channel="723">
         <title>Dummy Program</title>
         <desc>This is a dummy program description.</desc>
     </programme>
